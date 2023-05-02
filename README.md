@@ -1,6 +1,6 @@
 # Hamiltonian Dynamical Systems and Sitnikov Problem
 
-** About: ** This repository has de Poincaré maps of the Sitnikov Problem in Celestial Mechanics.
+**About:** This repository has de Poincaré maps of the Sitnikov Problem in Celestial Mechanics.
 
 ## The Sitnikov Problem
 
